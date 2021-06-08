@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/frontend-mov-review/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/frontend-mov-review/static/js/main.dc593f44.chunk.js",
+    "main.js.map": "/frontend-mov-review/static/js/main.dc593f44.chunk.js.map",
+    "runtime-main.js": "/frontend-mov-review/static/js/runtime-main.ebbebd9e.js",
+    "runtime-main.js.map": "/frontend-mov-review/static/js/runtime-main.ebbebd9e.js.map",
+    "static/js/2.0041d2ef.chunk.js": "/frontend-mov-review/static/js/2.0041d2ef.chunk.js",
+    "static/js/2.0041d2ef.chunk.js.map": "/frontend-mov-review/static/js/2.0041d2ef.chunk.js.map",
+    "static/js/3.0faa364e.chunk.js": "/frontend-mov-review/static/js/3.0faa364e.chunk.js",
+    "static/js/3.0faa364e.chunk.js.map": "/frontend-mov-review/static/js/3.0faa364e.chunk.js.map",
+    "index.html": "/frontend-mov-review/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/frontend-mov-review/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.0041d2ef.chunk.js.LICENSE.txt": "/frontend-mov-review/static/js/2.0041d2ef.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/frontend-mov-review/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebbebd9e.js",
+    "static/js/2.0041d2ef.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.dc593f44.chunk.js"
+  ]
+}
